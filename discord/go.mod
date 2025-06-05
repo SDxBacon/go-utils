@@ -1,4 +1,4 @@
-module github.com/SDxBacon/go-utils-monorepo/discord
+module github.com/SDxBacon/go-utils/discord
 
 go 1.23.5
 
